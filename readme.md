@@ -1,3 +1,3 @@
 # Deploy
 
-[https://taroosg.github.io/lazy-life-for-developer/](https://taroosg.github.io/lazy-life-for-developer/)
+[https://taroosg.github.io/deno-and-supabase-bogged/](https://taroosg.github.io/deno-and-supabase-bogged/)
